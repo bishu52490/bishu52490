@@ -1,7 +1,8 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/bishu52490/bishu52490/master/intro.gif" alt="👋 Hi there! I'm Bishu" title="👋 Hi there! I'm Bishu" />
 </h1>
-![Visitor Count](https://profile-counter.glitch.me/bishu52490/count.svg)
+
+![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=bishu52490.bishu52490&color=00cf00)
 
 <!--
 **bishu52490/bishu52490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
