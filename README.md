@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/bishu52490/bishu52490/master/intro.gif" alt="👋 Hi there! I'm Bishu" title="👋 Hi there! I'm Bishu" />
 </h1>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bishu52490&left_color=red&right_color=green) 
+ ![Visitors](https://api.visitorbadge.io/api/visitors?path=bishu52490&countColor=%2337d67a&labelStyle=upper)
 
 <!--
 **bishu52490/bishu52490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
